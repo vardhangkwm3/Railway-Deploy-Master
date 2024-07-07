@@ -1,0 +1,1 @@
+web: gunicorn DeployMaster.wsgi  --log-file -
